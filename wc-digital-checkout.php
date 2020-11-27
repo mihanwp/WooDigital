@@ -1,7 +1,7 @@
 <?php
 	/*
-	Plugin Name: WooDigital
-	Plugin URI: https://wordpress.org/plugins/woodigital/
+	Plugin Name: Digital Checkout for WooCommerce
+	Plugin URI: https://wordpress.org/plugins/wc-digital-checkout/
 	Description: WooCommerce Fast checkout on digital products
 	Version: 3
 	Author: MihanWP
