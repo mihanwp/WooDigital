@@ -3,9 +3,9 @@ Contributors: mihanwp
 Donate link: https://mihanwp.com/
 Tags: woocommerce,extra fields,checkout,digital products,digital goods,woocommerce fields
 Requires at least: 4.7
-Tested up to: 5.6
+Tested up to: 6.1.1
 Stable tag:   7.2
-Requires PHP: 5.6
+Requires PHP: 7.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
